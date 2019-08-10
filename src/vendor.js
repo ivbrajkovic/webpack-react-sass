@@ -1,1 +1,1 @@
-alert('Helo from vendor.js');
+console.log('Helo from vendor.js');

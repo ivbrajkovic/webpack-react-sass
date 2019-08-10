@@ -4,8 +4,8 @@ const CopyPlugin = require('copy-webpack-plugin');
 module.exports = {
     mode: 'development',
     entry: {
-        main: './src/index.js',
-        vendor: './src/vendor.js'
+        main: './src/index.js'
+        //vendor: './src/vendor.js'
     },
     module: {
         rules: [
